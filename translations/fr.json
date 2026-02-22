@@ -1,0 +1,23 @@
+{
+  "search_prompt": "Tapez pour rechercher sur YouTube",
+  "search_browser_line2": "Rechercher dans le navigateur",
+  "search_error": "Oups ! Un problème est survenu lors de la recherche",
+  "search_error_desc": "Réessayez ou vérifiez votre connexion",
+  "network_error": "Erreur de connexion",
+  "ago": "il y a",
+  "hour": "heure",
+  "hours": "heures",
+  "day": "jour",
+  "days": "jours",
+  "week": "semaine",
+  "weeks": "semaines",
+  "month": "mois",
+  "months": "mois",
+  "year": "an",
+  "years": "ans",
+  "minute": "minute",
+  "minutes": "minutes",
+  "suffix_billion": " Md",
+  "suffix_million": " M",
+  "suffix_thousand": " k"
+}

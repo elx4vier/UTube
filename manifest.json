@@ -1,0 +1,57 @@
+{
+  "manifest_version": 2,
+  "required_api_version": "^2.0.0",
+  "name": "UTube",
+  "description": "Search YouTube lightning fast, zero tracking, all smooth vibes",
+  "developer_name": "Xavier",
+  "icon": "images/icon.png",
+
+  "options": {
+    "query_debounce": 0.1
+  },
+
+  "preferences": [
+    {
+      "id": "kw",
+      "type": "keyword",
+      "name": "UTube",
+      "default_value": "y",
+      "description": "Lightning fast YouTube search"
+    },
+    {
+      "id": "max_results",
+      "type": "select",
+      "name": "Results per Page",
+      "description": "Note: More results can slightly increase the search time.",
+      "default_value": "7",
+      "options": [
+        { "text": "5", "value": "5" },
+        { "text": "7", "value": "7" },
+        { "text": "10", "value": "10" }
+      ]
+    },
+    {
+      "id": "thumb_type",
+      "type": "select",
+      "name": "Thumbnail Style",
+      "description": "Video: Detailed but slower. Channel: Balanced speed. None: Maximum performance.",
+      "default_value": "channel",
+      "options": [
+        { "text": "Video", "value": "video" },
+        { "text": "Channel", "value": "channel" },
+        { "text": "No Thumbnail", "value": "none" }
+      ]
+    },
+    {
+      "id": "search_layout",
+      "type": "select",
+      "name": "Display Layout",
+      "default_value": "layout_inverted",
+      "options": [
+        { "text": "Classic", "value": "layout_classic" },
+        { "text": "Inverted", "value": "layout_inverted" },
+        { "text": "Minimal", "value": "layout_minimal" }
+      ]
+    }
+  ]
+}

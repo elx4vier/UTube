@@ -1,0 +1,23 @@
+{
+  "search_prompt": "Введите текст для поиска на YouTube",
+  "search_browser_line2": "Поиск в браузере",
+  "search_error": "Ой! Что-то пошло не так при поиске",
+  "search_error_desc": "Попробуйте еще раз или проверьте соединение",
+  "network_error": "Ошибка соединения",
+  "ago": "назад",
+  "hour": "час",
+  "hours": "часа",
+  "day": "день",
+  "days": "дней",
+  "week": "неделю",
+  "weeks": "недели",
+  "month": "месяц",
+  "months": "месяцев",
+  "year": "год",
+  "years": "лет",
+  "minute": "минуту",
+  "minutes": "минут",
+  "suffix_billion": " млрд",
+  "suffix_million": " млн",
+  "suffix_thousand": " тыс."
+}

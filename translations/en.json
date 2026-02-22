@@ -1,0 +1,23 @@
+{
+  "search_prompt": "Type to search on YouTube",
+  "search_browser_line2": "Search on browser",
+  "search_error": "Oops! Something went wrong",
+  "search_error_desc": "Please try again or check your connection",
+  "network_error": "Connection error",
+  "ago": "ago",
+  "hour": "hour",
+  "hours": "hours",
+  "day": "day",
+  "days": "days",
+  "week": "week",
+  "weeks": "weeks",
+  "month": "month",
+  "months": "months",
+  "year": "year",
+  "years": "years",
+  "minute": "minute",
+  "minutes": "minutes",
+  "suffix_billion": "B",
+  "suffix_million": "M",
+  "suffix_thousand": "K"
+}
